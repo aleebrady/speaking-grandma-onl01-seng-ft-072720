@@ -1,7 +1,10 @@
 'require pry'
 
-def speak_to_grandma(string)
-  if 
+def speak_to_grandma(phrase)
+  if phrase == "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU PUMPKIN!"
+  end
+end
   
   
 end
